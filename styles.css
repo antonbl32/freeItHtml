@@ -1,0 +1,28 @@
+.main_div {
+	margin-top: 25px; 
+	margin-left: 30%;
+}
+
+.main_input {
+	border-color: blue;
+	border: 2px solid;
+}
+
+.lookinfor{
+	background-color: blue;
+	color: #ffffff;
+}
+
+.searchBtn:active{
+    background-color: darkblue;
+    color: #ffffff;
+}
+
+h1 {
+	color: red;
+}
+
+.image{
+    width: 120px;
+    height: 220px;
+}
